@@ -16,7 +16,7 @@ const styles = {
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
         backgroundPositionX: '50%',
-        paddingTop: 100,
+        paddingTop: 0,
         paddingLeft: 10,
         paddingRight: 10,
         fontSize: '1.2rem',
